@@ -3,10 +3,11 @@
 .first{
 	
 	border:2px solid black;
+	width:300px;
 }
 .second{
 	margin:20px;
 	border:15px solid blue;
 	padding:50px;
 	background-color:lightblue;
-	width:300px;
+/* 	width:300px; */
